@@ -1,3 +1,3 @@
 # GAME2048
 A SMALL POPULAR GAME LAST YEAR ,THIS GAME IS BASED ON WEB.
-![](http://github.com/GoldenStateCHONGQIN/GAME2048/raw/master/2048.png)
+![2048](http://github.com/GoldenStateCHONGQIN/GAME2048/raw/master/2048.png)
